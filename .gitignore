@@ -29,3 +29,5 @@ client/node_modules
 client/platforms
 client/plugins
 client/www
+
+server/node_modules
